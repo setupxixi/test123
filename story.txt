@@ -1,3 +1,4 @@
 1 first line
 
 now we've added 2nd line
+3rd line added
